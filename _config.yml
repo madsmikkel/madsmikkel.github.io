@@ -1,7 +1,7 @@
 # Gerneral Jekyll config:
 name: Mads Mikkel
 permalink: /blog/:year/:month/:day/:title
-#markdown: kramdown
+markdown: kramdown
 highlighter: rouge
 #kramdown:
 #  input: GFM
