@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Blog started!"
-date: 2016-13-10
+date: 2016-10-13
 ---
 
 Many thanks to Hank Q.
