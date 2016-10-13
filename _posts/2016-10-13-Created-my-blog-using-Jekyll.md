@@ -8,7 +8,7 @@ Many thanks to Hank Q.
 <br>
 This code example should be syntax highlighted:
 <br>
-<p>
+
 ```csharp
 namespace MySystem
 {
@@ -21,4 +21,3 @@ namespace MySystem
     }
 }
 ```
-</p>
