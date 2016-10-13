@@ -6,7 +6,7 @@ date: 2016-10-13
 
 Many thanks to Hank Q.
 <br>
-This is code:
+This code example should be syntax highlighted:
 <br>
 ```csharp
 namespace MySystem
