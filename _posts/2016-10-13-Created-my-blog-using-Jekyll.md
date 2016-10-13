@@ -9,7 +9,7 @@ Many thanks to Hank Q.
 This code example should be syntax highlighted:
 <br>
 
-```csharp
+```python
 namespace MySystem
 {
     class Program
